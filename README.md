@@ -14,6 +14,7 @@ Repositorio con los talleres desarrollados en la asignatura de Lógica de Progra
 
 | N.º | Taller | Contenido | Enlace |
 | --- | --- | --- | --- |
+| 1 | Fundamentos de programación | Conceptos básicos de programación y algoritmos | [Ver carpeta](./Taller%201%20fundamentos%20de%20programacion) |
 | 2 | Algoritmos, pseudocódigo y diagramas | Construcción de algoritmos, pseudocódigo y diagramas de flujo | [Ver carpeta](./Taller%202%20Logica%20de%20Programacion/) |
 | 3 | Manejo de arrays | Uso y recorrido de vectores y arreglos | [Ver carpeta](./Taller%203%20Manejo%20de%20Arrays/) |
 | 4 | Tipos de datos en lógica de programación | Tipos de datos, variables y constantes | [Ver carpeta](./Taller%204%20Tipos%20de%20Datos%20en%20Logica%20de%20Programacion/) |
@@ -25,6 +26,7 @@ Repositorio con los talleres desarrollados en la asignatura de Lógica de Progra
 ```text
 .
 ├── README.md
+├── Taller 1 fundamentos de programacion/
 ├── Taller 2 Logica de Programacion/
 ├── Taller 3 Manejo de Arrays/
 ├── Taller 4 Tipos de Datos en Logica de Programacion/
