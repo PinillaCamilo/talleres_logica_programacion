@@ -298,6 +298,4 @@ Fin
 
 ## Reflexión final
 
-*Un párrafo sobre qué aprendiste al realizar las pruebas de escritorio y por qué crees que son importantes antes de programar.*
-
 Este taller logro resolver dudas acerca de las pruebas de escritorio desmotrandome que algo esta bien hecho hasta que se logra comprobar, tambien logre desenvolverme con ejercicios distintos, haciendo las distintas pruebas y los respectivos arreglos que se ocupaban.
